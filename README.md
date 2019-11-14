@@ -7,7 +7,7 @@
 <blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>
 
 <h3>Descrição:</h3>
-O projeto se resume em uma aplicação para armazenamento de projetos e suas tarefas utilizando **Express**
+O projeto se resume em uma aplicação para armazenamento de projetos e suas tarefas utilizando Express.
 
   
 ### Rotas
